@@ -1,4 +1,5 @@
-.vscode
+.vscode/launch.json
+.vscode/tasks.json
 ejercicio1
 ejercicio2
 ejercicio3
