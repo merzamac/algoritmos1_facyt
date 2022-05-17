@@ -2,8 +2,7 @@
 sumar los elementos de un vector
 */
 #include<stdio.h>
-#include<stdbool.h>
-#include<string.h>
+
 
 int suma_elem(int elem[],int n){
     int resultado;

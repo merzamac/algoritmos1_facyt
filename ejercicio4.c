@@ -3,8 +3,7 @@ sumar sumar dos numeros a+b
 para la resta seria la misma logica
 */
 #include<stdio.h>
-#include<stdbool.h>
-#include<string.h>
+
 
 int suma_recursiva(int a,int b){
     int resultado;
