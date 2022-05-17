@@ -21,7 +21,7 @@ bool espalindromo(char cadena[],int n,int in){
 }
 int main(){
     bool resultado;
-    char cadena[]="aba"; //arepera,abba,hannah
+    char cadena[]="arepera"; //arepera,abba,hannah
     if(espalindromo(cadena,strlen(cadena)-1,0)){
         printf("lo es, %s ",cadena);
     }else{

@@ -1,4 +1,7 @@
-/*convertir un numero de decimal a binario*/
+/*convertir un numero de decimal a binario
+fileBasenameNoExtension
+"${fileDirname}/${fileBasenameNoExtension}/*.out"
+*/
 #include<stdio.h>
 
 int abinario(int num){
